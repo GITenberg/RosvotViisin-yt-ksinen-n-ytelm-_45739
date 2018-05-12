@@ -1,0 +1,40 @@
+_repo: RosvotViisin-yt-ksinen-n-ytelm-_45739
+_version: 0.1.0
+alternative_title: Die Räuber. Finnish
+contributor:
+  translator:
+    agent_name: Siljo, Juhani
+    birthdate: 1888
+    deathdate: 1918
+    gutenberg_agent_id: '6580'
+    url: http://www.gutenberg.org/2009/agents/6580
+    wikipedia: http://fi.wikipedia.org/wiki/Juhani_Siljo
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schiller, Friedrich
+    aliases:
+    - Schiller, Johann Christoph Friedrich von
+    - Schiller, Friedrich von
+    birthdate: 1759
+    deathdate: 1805
+    gutenberg_agent_id: '289'
+    url: http://www.gutenberg.org/2009/agents/289
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Schiller
+description: ''
+gutenberg_issued: '2014-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45739'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'German drama -- Translations into Finnish'
+- !lcsh 'Tragedies'
+title: 'Rosvot: Viisinäytöksinen näytelmä'
+url: http://www.gutenberg.org/ebooks/45739
